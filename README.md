@@ -16,3 +16,8 @@ Serviços oferecidos:
 Nossa missão é fornecer recursos e suporte de alta qualidade para profissionais e empresas do setor de alimentos, promovendo a excelência operacional, a conformidade regulatória e a satisfação do cliente.
 
 
+## Recursos Utilizados
+
+- HTML5
+- CSS3
+- JavaScript
